@@ -1,1 +1,0 @@
-testando mais uma vez o reconhecimento de voz feito pela Engine do Google
