@@ -1,0 +1,1 @@
+após a geração do pacote é criado importado o pacote gerado na sala de controle de produção
